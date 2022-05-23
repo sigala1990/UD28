@@ -1,0 +1,16 @@
+h1{
+    background-color: wheat;
+}
+h2{
+    color: cornflowerblue;
+    font-size: 3rem;
+}
+em{
+    font-style: oblique;
+    color: rgb(146, 224, 238);
+}
+
+b{
+    color: rgb(57, 57, 128);
+}
+
